@@ -35,7 +35,7 @@ A ledcube.env file is created where you start the server. You can use it to edit
 sudo apt install git cmake make
 
 # 2) Git clone
-git clone https://github.com/Jiogo18/Led-Cube
+git clone https://github.com/RobotekOrleans/Led-Cube
 cd Led-Cube
 git submodule update --init --recursive
 
